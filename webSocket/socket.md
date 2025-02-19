@@ -230,3 +230,10 @@
         ```c++
         int close(int sockfd)
         ```
+
+## 참고
+https://velog.io/@wjddnjswjd12/TCPIP-net-Socket-%EB%AA%A8%EB%93%88-%EB%93%B1%EB%93%B1-%EA%B3%B5%EB%B6%80-%EA%B8%B0%EB%A1%9D
+
+https://velog.io/@zh025700/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D04-TCP%EA%B8%B0%EB%B0%98-%EC%84%9C%EB%B2%84-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B81
+
+https://velog.io/@white-jelly/TCP-%EA%B8%B0%EB%B0%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D
