@@ -1,5 +1,4 @@
 # IPv4와 IPv6
-
 - IP 주소는 인터넷 주소로 IPv4, IPv6로 나뉨
 
 ## IPv4
