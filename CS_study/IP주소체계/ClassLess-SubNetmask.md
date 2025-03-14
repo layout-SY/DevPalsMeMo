@@ -62,3 +62,12 @@
         - 따라서 유튜브가 새로고침 전에는 무한 로딩이 걸림. 
         - 그래서 새로고침을 통해 현재 네트워크(LTE)와 TCP 연결을 진행하여 영상 데이터에 대한 요청/응답이 다시 이루어짐.
 - 반대 경우에도 마찬가지
+
+## 참고
+https://velog.io/@borab/IP-%EC%A3%BC%EC%86%8C%EC%99%80-Classful-Classless
+https://jejoonlee.tistory.com/m/173
+https://jeonghoon.netlify.app/Network/layer_3_ip/
+https://jejoonlee.tistory.com/m/173
+https://blog.naver.com/newyks/150182660566
+https://m.blog.naver.com/seek316/222652148082
+https://minjiwoo.kr/466
