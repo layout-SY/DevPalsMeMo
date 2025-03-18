@@ -92,3 +92,12 @@
     ![alt text](image-8.png)
 - 전송된 패킷이 손실 됐다면 수신 측에서 에러를 검출/수정 하는 방식.<br>
     열악한 네트워크 환경에서도 낮은 패킷 손실률을 자랑하는 순방향 오류 수정 메커니즘.
+
+## 참고
+https://www.akamai.com/ko/blog/performance/deliver-fast-reliable-secure-web-experiences-http3
+https://gngsn.tistory.com/234
+https://ibocon.tistory.com/257
+https://seeun0210.tistory.com/26
+https://jaehoney.tistory.com/281
+https://velog.io/@mooongs/CSS-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%8A%A4%ED%94%84%EB%9D%BC%EC%9D%B4%ED%8A%B8-%EA%B8%B0%EB%B2%95
+https://velog.io/@uoayop/HTTP
