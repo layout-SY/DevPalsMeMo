@@ -47,6 +47,7 @@ Set-Cookie: <cookie-name>=<cookie-value>; SameSite=Strict
 
 ### samesite
 - 요청이 동일한 도메인에서 시작된 경우에만 쿠키가 애플리케이션으로 전송되도록 허용
+    - 그러니까 다른 도메인( 예. www.google.com에서 네이버 페이 요청 )에서 해당 도메인(www.naver.com)으로 요청될 경우 쿠키 전송 X
 
 ### 쿠키의 시큐어 코딩
 1. cookie에 세션 ID를 담을 때 이 세션ID 기반으로 클라이언트의 개인정보를 유출할 수 없게 해야 함.
